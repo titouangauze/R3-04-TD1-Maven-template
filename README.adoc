@@ -38,6 +38,7 @@ Cela permet :
 WARNING: Les illustrations utilisent {vscode}, mais peu importe que vous utilisiez un autre IDE comme {eclipse} ou {intellij}, il vous suffit d'adapter à votre IDE (qu'il vous faut apprendre à connaître).
 
 Le plus simple pour réaliser ce TP est d'utiliser gitpod : rajoutez `gitpod.io/#` devant l'URL de votre dépôt ou cliquez sur le bouton Gitpod si vous en avez un qui s'affiche.
+Mais nous vous conseillons d'utiliser plutôt votre IDE personnel, pour vérifier que votre machine est bien configurer pour l'utiliser pour tous les TPs à suivre (et pouvoir travailler même sans réseau!).
 
 .Pour les utilisateurs des machines IUT (merci à Rémy Guibert)
 [WARNING]
